@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<Definitions 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Definition xsi:type="EnvironmentDefinition">
+    <Id>
+      <TypeId>EnvironmentDefinition</TypeId>
+      <SubtypeId>Default</SubtypeId>
+    </Id>
+
+    <PlanetProperties>
+      <AtmosphereIntensityMultiplier>4.6</AtmosphereIntensityMultiplier>
+      <CloudsIntensityMultiplier>5.2</CloudsIntensityMultiplier>
+    </PlanetProperties>
+
+    <SunProperties>
+      <SunIntensity>160</SunIntensity>
+      <EnvironmentProbe>
+        <TimeOut>0</TimeOut>
+        <DrawDistance>100</DrawDistance>
+      </EnvironmentProbe>
+      
+      <EnvironmentLight>
+        <SunDiscColor>
+            <X>1</X>
+            <Y>1</Y>
+            <Z>3</Z>
+        </SunDiscColor>
+
+        <SunDiscInnerDot>0.9997</SunDiscInnerDot>
+        <SunDiscOuterDot>0.9995</SunDiscOuterDot>
+
+        <AODirLight>0.285</AODirLight>
+        <AOIndirectLight>1</AOIndirectLight>
+        <AOPointLight>0.37</AOPointLight>
+        <AOSpotLight>0.3</AOSpotLight>
+
+        <EnvSkyboxBrightness>0.1</EnvSkyboxBrightness>
+        <EnvAtmosphereBrightness>0.15</EnvAtmosphereBrightness>
+
+        <AmbientRadius>40.0</AmbientRadius>
+        <ForwardDimDistance>7.816</ForwardDimDistance>
+
+        <SunDiscIntensity>2.8</SunDiscIntensity>
+      </EnvironmentLight>
+      <TextureMultipliers>
+          <GlossMultiplier>0.9</GlossMultiplier>
+      </TextureMultipliers>
+    </SunProperties>
+
+    <PostProcessSettings>
+      <HistogramLogMin>-3.813</HistogramLogMin>
+      <HistogramLogMax>8</HistogramLogMax>
+      <HistogramFilterMin>19.32</HistogramFilterMin>
+      <HistogramFilterMax>84.517</HistogramFilterMax>
+      <HistogramSkyboxFactor>0.01</HistogramSkyboxFactor>
+      <MinEyeAdaptationLogBrightness>-5.0</MinEyeAdaptationLogBrightness>
+      <MaxEyeAdaptationLogBrightness>2.597</MaxEyeAdaptationLogBrightness>
+      <Data>
+        <BloomLumaThreshold>0.0</BloomLumaThreshold>
+        <BloomMult>0.034</BloomMult>
+        <BloomEmissiveness>15</BloomEmissiveness>
+        <BloomDirtRatio>0.56</BloomDirtRatio>
+
+        <EyeAdaptationSpeedUp>0.586</EyeAdaptationSpeedUp>
+        <EyeAdaptationSpeedDown>0.365</EyeAdaptationSpeedDown>
+      </Data>
+    </PostProcessSettings>
+
+    <HBAOSettings>
+      <Enabled>true</Enabled>
+
+      <Radius>5.0</Radius>
+      <Bias>0.087</Bias>
+        
+      <SmallScaleAO>0.832</SmallScaleAO>
+      <LargeScaleAO>1.022</LargeScaleAO>
+
+      <PowerExponent>4.88</PowerExponent>
+
+      <BackgroundAOEnable>true</BackgroundAOEnable>
+      <BackgroundViewDepth>0</BackgroundViewDepth>
+    </HBAOSettings>
+
+    <ShadowSettings>
+      <Data>
+        <UpdateCascadesEveryFrame>true</UpdateCascadesEveryFrame>
+        <ShadowCascadeMaxDistance>20000</ShadowCascadeMaxDistance>
+        <ShadowCascadeSpreadFactor>0.085</ShadowCascadeSpreadFactor>
+        <ShadowCascadeZOffset>50000</ShadowCascadeZOffset>
+      </Data>
+    </ShadowSettings>
+  </Definition>
+</Definitions>

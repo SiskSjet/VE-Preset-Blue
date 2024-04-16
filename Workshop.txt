@@ -1,0 +1,60 @@
+﻿This is my preset with a dark sky box containing blue nebula, modified environment lighting and custom sun rays and flares.
+
+You can customize your skybox with my [url=https://steamcommunity.com/workshop/filedetails/?id=1380376642] VE Collection [/url].
+It includes Skybox, Sun and Environment as seperate mods. They can be combined so that you can build your Skybox to your liking.
+
+If you have some suggestions or know how to fix some of my issues then let me know in the comments below.
+I always wanted to say that 😄
+
+[h2]🛠︰Features ・─────────・・・[/h2]
+[list]
+[*] Dark skybox with blue nebula in 4K
+[*] Custom sun rays and lense flare
+[*] Reduces and modified "screen dirt"
+[*] Darker dark sides
+[*] Improved directional light and shadows
+[*] Less Bloom
+[/list]
+
+[h2]🛠︰Credits ・──────────・・・[/h2]
+A big thanks to [url=https://steamcommunity.com/id/hunterdigi/myworkshopfiles/?appid=244850&sort=score&browsefilter=myfiles&view=imagewall] Digi[/url] for pointing out the profiler build.
+
+[h2]🛠︰Support ・──────────・・・[/h2]
+It would be nice if you could consider supporting me 
+
+[url=https://ko-fi.com/sisksjet][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738438809/074D2B10C793252F866EEB91EC748E0E8B3C3210/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=false[/img][/url] [url=https://patreon.com/sisk][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738613768/8FE59EC78463E3EFA52D59347D83D3C9838BF6E6/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=false[/img][/url] [url=https://paypal.me/sisksjet][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738619680/36B89C41163487AD5BFB13B2C673E0F153171D29/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=true[/img][/url]
+
+or join my [url=https://discord.gg/2s22YCqSFg]Discord[/url] if you have suggestions, wishes, or just want to know what else I'm working on. My Discord is new, so there is not much going on yet.
+You can also check out my other mods in my [url=https://steamcommunity.com/id/sisksjet/myworkshopfiles/?appid=244850]Workshop[/url].
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Dies ist mein Preset mit einer dunklen Sky box mit blauen Nebel, modifizierter Umgebungsbeleuchtung und benutzerdefinierten Sonnenstrahlen und Lens Flares.
+
+Du kannst deine Skybox mit meiner [url=https://steamcommunity.com/workshop/filedetails/?id=1380376642] VE Collection [/url] anpassen.
+Sie enthält Skybox, Sun und Environment als separate Mods. Sie können kombiniert werden, sodass du deine Skybox nach deinen Wünschen bauen kannst.
+
+Wenn ihr Vorschläge habt oder wisst, wie man dinge aus meiner Todo liste löst, lasst mir ein Kommentar da.
+
+[h2]🛠︰Features ・─────────・・・[/h2]
+[list]
+[*] Dunkle Sky Box mit blauen Nebel in 4K
+[*] Benutzerdefinierte Sonnenstrahlen und Lens Flares
+[*] Reduzierter und modifizierter "Bildschirm Schmutz"
+[*] Dunklere dunkle Seiten
+[*] Verbesserte gerichtete Lichtquellen und Schatten
+[*] Weniger Bloom
+[/list]
+
+[h2]🛠︰Credits ・──────────・・・[/h2]
+Ein großes Dankeschön geht an [url=https://steamcommunity.com/id/hunterdigi/myworkshopfiles/?appid=244850&sort=score&browsefilter=myfiles&view=imagewall] Digi[/url] für den Hinweis auf den Profiler-Build.
+
+[h2]🛠︰Support ・──────────・・・[/h2]
+Es wäre schön, wenn ihr mich unterstützen würdet
+
+[url=https://ko-fi.com/sisksjet][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738438809/074D2B10C793252F866EEB91EC748E0E8B3C3210/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=false[/img][/url] [url=https://patreon.com/sisk][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738613768/8FE59EC78463E3EFA52D59347D83D3C9838BF6E6/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=false[/img][/url] [url=https://paypal.me/sisksjet][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738619680/36B89C41163487AD5BFB13B2C673E0F153171D29/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=true[/img][/url]
+
+oder meinem [url=https://discord.gg/2s22YCqSFg]Discord[/url] beitretet, wenn ihr Vorschläge oder Wünsche haben oder einfach nur wissen möchten, woran ich sonst noch arbeite. Mein Discord ist neu, daher ist noch nicht viel los.
+Ihr könnt euch auch meine anderen Mods in meinem [url=https://steamcommunity.com/id/sisksjet/myworkshopfiles/?appid=244850]Workshop[/url] ansehen.
